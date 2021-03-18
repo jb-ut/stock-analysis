@@ -184,7 +184,9 @@ Sub AllStocksAnalysisRefactored()
 
 ### How do these pros and cons apply to refactoring the original VBA script?
 In the case of this stock analysis, there was an opportunity to improve the scale and efficiency of the stock analysis VBA script. Based on the request and the sample code provided, there was a clear path forward to refactor the code and analyze more data and improve efficiency.
-The prior scripts took several seconds to run and the refactored scripts both take under one second to run providing quicker results for the Steve.
-![image](https://github.com/jb-ut/stock-analysis/blob/main/VBA_Challenge_2017.PNG)
-![image](https://github.com/jb-ut/stock-analysis/blob/main/VBA_Challenge_2018.PNG)
+The prior scripts took several seconds to run and the refactored scripts both take under one second to run providing quicker results for the Steve. 
+
+Below are the execution times of the new script.
+
+![image](https://github.com/jb-ut/stock-analysis/blob/main/VBA_Challenge_2017.PNG) ![image](https://github.com/jb-ut/stock-analysis/blob/main/VBA_Challenge_2018.PNG)
 
